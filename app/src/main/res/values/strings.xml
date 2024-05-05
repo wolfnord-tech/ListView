@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="addElem">Дублировать последний элемент</string>
+    <string name="delElem">Удалить последний элемент</string>
+    <string-array name="subjects">
+        <item>Математика</item>
+        <item>Физика</item>
+        <item>Химия</item>
+        <item>Биология</item>
+        <item>Информатика</item>
+    </string-array>
+    <string-array name="mathematics">
+        <item>Алгебра</item>
+        <item>Геометрия</item>
+        <item>Теория чисел</item>
+        <item>Дифференциальные уравнения</item>
+        <item>Топология</item>
+    </string-array><string-array name="physics">
+        <item>Механика</item>
+        <item>Термодинамика</item>
+        <item>Электродинамика</item>
+        <item>Оптика</item>
+        <item>Ядерная физика</item>
+    </string-array><string-array name="chemistry">
+        <item>Неорганическая химия</item>
+        <item>Органическая химия</item>
+        <item>Физическая химия</item>
+        <item>Аналитическая химия</item>
+        <item>Химическая технология</item>
+    </string-array>
+    <string-array name="biology">
+        <item>Ботаника</item>
+        <item>Зоология</item>
+        <item>Анатомия</item>
+        <item>Генетика</item>
+        <item>Микробиология</item>
+    </string-array>
+    <string-array name="computer_science">
+        <item>Базы данных</item>
+        <item>Структуры и алгоритмы обработки данных</item>
+        <item>Программирование на языке Rust</item>
+        <item>Компьютерные сети</item>
+        <item>Архитектура операционных систем</item>
+    </string-array>
+</resources>
